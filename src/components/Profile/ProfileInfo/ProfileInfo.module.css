@@ -1,0 +1,9 @@
+.image {
+    height: 300px;
+    width: 1000px;
+    overflow: hidden;
+}
+
+.descriptionBlock {
+    padding: 10px;       
+}

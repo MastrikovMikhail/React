@@ -1,0 +1,20 @@
+.dialog {
+  color: white;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  font-weight: normal;
+}
+
+.link:hover {
+  font-weight: bold;
+}
+
+
+.active {
+  color: gold;
+  text-decoration: none;
+  font-weight: bold;
+}
